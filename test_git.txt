@@ -1,1 +1,4 @@
 Arquivo de treino para git
+
+Adicionei uma mensgagem para checar as alterações
+
